@@ -1,0 +1,52 @@
+{
+    "1": {
+        "username": "alice748",
+        "content": "Excited to share my latest Python project on data visualization!",
+        "time": "2026-01-06 12:00:00"
+    },
+    "2": {
+        "username": "alice748",
+        "content": "Just finished a machine learning course. AI is fascinating!",
+        "time": "2026-01-06 12:15:00"
+    },
+    "3": {
+        "username": "bob_smith",
+        "content": "Built a new web app using React. Check it out!",
+        "time": "2026-01-06 12:30:00"
+    },
+    "4": {
+        "username": "bob_smith",
+        "content": "UI/UX tips: Always prioritize user feedback in design.",
+        "time": "2026-01-06 12:45:00"
+    },
+    "5": {
+        "username": "browncharlie",
+        "content": "Debugging a complex Java backend issue. Persistence pays off!",
+        "time": "2026-01-06 13:00:00"
+    },
+    "6": {
+        "username": "browncharlie",
+        "content": "Agile methodologies have transformed our development process.",
+        "time": "2026-01-06 13:15:00"
+    },
+    "7": {
+        "username": "diana460",
+        "content": "Working on a new game in C++. Graphics are looking amazing!",
+        "time": "2026-01-06 13:30:00"
+    },
+    "8": {
+        "username": "diana460",
+        "content": "Creativity in coding: Thinking outside the box leads to innovation.",
+        "time": "2026-01-06 13:45:00"
+    },
+    "9": {
+        "username": "wilson04",
+        "content": "Migrating databases to the cloud. SQL optimization is key.",
+        "time": "2026-01-06 14:00:00"
+    },
+    "10": {
+        "username": "wilson04",
+        "content": "Automation scripts save so much time in DevOps!",
+        "time": "2026-01-06 14:15:00"
+    }
+}

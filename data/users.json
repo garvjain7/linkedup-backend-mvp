@@ -1,0 +1,80 @@
+{
+    "user1": {
+        "user_id": 1,
+        "username": "alice748",
+        "name": "Alice Johnson",
+        "email": "alice@example.com",
+        "skills": [
+            "Python",
+            "Data Analysis",
+            "Machine Learning",
+            "Communication",
+            "Leadership"
+        ]
+    },
+    "user2": {
+        "user_id": 2,
+        "username": "bob_smith",
+        "name": "Bob Smith",
+        "email": "bob@example.com",
+        "skills": [
+            "JavaScript",
+            "Web Development",
+            "UI/UX Design",
+            "Teamwork",
+            "Problem Solving"
+        ]
+    },
+    "user3": {
+        "user_id": 3,
+        "username": "browncharlie",
+        "name": "Charlie Brown",
+        "email": "charlie@example.com",
+        "skills": [
+            "Java",
+            "Backend Development",
+            "Database Management",
+            "Agile",
+            "Testing"
+        ]
+    },
+    "user4": {
+        "user_id": 4,
+        "username": "diana460",
+        "name": "Diana Prince",
+        "email": "diana@example.com",
+        "skills": [
+            "C++",
+            "Game Development",
+            "Graphics",
+            "Creativity",
+            "Debugging"
+        ]
+    },
+    "user5": {
+        "user_id": 5,
+        "username": "wilson04",
+        "name": "Eve Wilson",
+        "email": "eve@example.com",
+        "skills": [
+            "SQL",
+            "Data Engineering",
+            "Cloud Computing",
+            "Security",
+            "Automation"
+        ]
+    },
+    "garvjain07": {
+        "username": "garvjain07",
+        "user_id": 6,
+        "name": "Garv Jain",
+        "email": "me@gmail.com",
+        "skills": [
+            "python",
+            "",
+            "linux",
+            "system administration",
+            "image processing"
+        ]
+    }
+}
